@@ -129,7 +129,7 @@ Menu Performance – Top and bottom products by revenue
 Payment Method Breakdown – Transaction count and revenue share  
 
 📂 Power BI file is located <a href = "files\Naija Taste dashboard.pbix">powerBi file</a>  
-📷 Dashboard screenshots are in <img src = "files\WhatsApp Image 2025-07-07 at 4.35.09 AM.jpeg"> Dashboard 
+📷 Dashboard screenshots are in <img src = "files\WhatsApp Image 2025-07-07 at 4.35.09 AM.jpeg" alt text = "Dashboard image"> 
 
 ## 🧰 Tools and Technologies  
 PostgreSQL – Data cleaning and analysis using structured SQL queries  
