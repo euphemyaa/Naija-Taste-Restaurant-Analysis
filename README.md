@@ -9,9 +9,9 @@ The data was cleaned and prepared using PostgreSQL, transformed in Power Query, 
 PostgreSQL via pgAdmin4  
 
 ### Datasets:  
-<a href = "/files\customers.csv">Customer demographics</a>  
-<a href = "files\products.csv">product description</a>  
-<a href = "files\sales.csv">Transaction records</a>  
+<a href = "/files\customers.csv">Customers.csv</a>  
+<a href = "files\products.csv">products.csv</a>  
+<a href = "files\sales.csv">Sales.csv</a>  
 
 ### Steps taken:  
 Created my table and imported the datasets into PostgreSQL.  
@@ -128,8 +128,8 @@ Sales Trends – Daily and Day-of-Week revenue performance
 Menu Performance – Top and bottom products by revenue  
 Payment Method Breakdown – Transaction count and revenue share  
 
-📂 Power BI file is located <a href = "files\Naija Taste dashboard.pbix"></a>  
-📷 Dashboard screenshots are in <img src = "files\WhatsApp Image 2025-07-07 at 4.35.09 AM.jpeg">  
+📂 Power BI file is located <a href = "files\Naija Taste dashboard.pbix">powerBi file</a>  
+📷 Dashboard screenshots are in <img src = "files\WhatsApp Image 2025-07-07 at 4.35.09 AM.jpeg"> Dashboard 
 
 ## 🧰 Tools and Technologies  
 PostgreSQL – Data cleaning and analysis using structured SQL queries  
