@@ -26,7 +26,7 @@ Validated data structure against table definitions (customers, products, and sal
 total_price = quantity × price  
 Preserved same-day purchases from customers as valid (not treated as duplicates)  
 
-🗂️ See full SQL scripts used for cleaning and analysis in the /sql folder: <a href = "files\Naija_Taste_Restaurant.sql"></a>  
+🗂️ See full SQL scripts used for cleaning and analysis in the /sql folder: <a href = "files\Naija_Taste_Restaurant.sql">Sql file</a>  
 
 ### 📊 Statistical Summary  
 **Using SQL queries, the following key metrics were derived:**  
